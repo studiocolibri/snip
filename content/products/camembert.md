@@ -1,10 +1,11 @@
 +++
-description = "description du camembert"
-draft = true
-id = "01"
-image = "/uploads/cadenas.png"
+date = "2019-04-10T15:46:32+00:00"
+description = "Native from France, this cheese is soft, moist and creamy. It is similar to Brie, but with higher fat content. Best paired with a sweet, crispy biscuit."
+id = "CAMEMBERT"
+image = "/uploads/camembert.jpg"
 name = "Camembert"
-price = 12
-product_url = "https://www.google.com"
+price = 9.95
+product_url = "https://snipcart-hugo-forestry.netlify.com"
+url = "/"
 
 +++
