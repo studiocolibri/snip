@@ -3,4 +3,6 @@
 ---
 {{% custom %}}First test{{% /custom %}}
 
-{{% custom %}} Other test {{% /custom %}}
+{{% custom 56 %}} Other test {{% /custom %}}
+
+{{% custom  32 %}} custom Body {{% /custom %}}
