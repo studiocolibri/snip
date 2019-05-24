@@ -1,4 +1,12 @@
 ---
 label: rob
 hide_body: false
-fields: []
+fields:
+- name: lol
+  type: blocks
+  label: lol
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: gdrgdg
