@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/prods.json
+  label: prods
+  match: "**/*"
 - type: directory
   path: content/products
   label: Products
