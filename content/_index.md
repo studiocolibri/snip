@@ -8,3 +8,5 @@
 {{% custom 56 %}} Other test {{% /custom %}}
 
 {{% custom  32 %}} custom Body {{% /custom %}}
+
+{{% custom %}} ![](/uploads/cheddar.jpg) {{% /custom %}}
