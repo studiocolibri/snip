@@ -2,6 +2,7 @@
     <h2 class="product__name">{{ .name }}</h2>
     <img class="product__image" src="{{ .image }}" alt="">
     <p class="product__description">{{ .description }}</p>
+    <p class="product__description">{{ .weight }}</p>
     <div class="product__button-container">
       <div class="product__price">${{ .price }}</div>
       <button
@@ -10,7 +11,9 @@
         data-item-name="{{ .name }}"
         data-item-price="{{ .price }}"
         data-item-url="{{ .product_url }}"
-        data-item-description="{{ .description }}">
+        data-item-description="{{ .description }}"
+        data-item-weight="{{ .weight }}"
+        >
         Add to cart
       </button>
     </div>
